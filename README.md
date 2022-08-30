@@ -1,6 +1,6 @@
 ------------------------//--------------------------//-----------------
 - 👋 Hi, I’m @sidneyjfg
 - 👀 I'm interested in working with back end programming
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning system of information
 - 📫 How to reach me e-mail: sidneyjunio191@gmail.com
 ------------------------//--------------------------//-----------------
