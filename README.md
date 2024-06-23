@@ -1,13 +1,16 @@
 # 💫 About Me: Sidney Junio Fortes Gonçalves
-🔭 Graduated in Computer Technician and studying Information System at Puc Minas. I'm currently working in the support area at Nerus - Software Company.<br>👯 I'm looking to collaborate and put into practice my knowledge in areas that need creativity and challenge resolutions no matter the degree<br>🌱 I have knowledge in Flutter, C#, Database and Web development, and also in agile methodologies.
-<br><br>--------------------------------------------------------------------------------<br>🔭 Formado em Técnico em informática e cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo. Atualmente estou trabalhando na área de suporte na Nerus - Empresa de software.<br>👯 Estou procurando colaborar e colocar em práticas meus conhecimentos em áreas que necessitam de <br>criatividade e resoluções de desafios não importa o grau<br>🌱 Tenho conhecimento em Flutter, C#, Banco de Dados e desenvolvimento Web, e também em metodologias ágeis.
+🔭 Graduated in Computer Technician and studying Information System at Puc Minas. I'm currently working in the support area at Nerus - Software Company.<br>👯 I'm looking to collaborate and put into practice my knowledge in areas that need creativity and challenge resolutions no matter the degree<br>🌱 I have knowledge in Flutter, C#, Python, React JS, Database and Web development, and also in agile methodologies.
+<br><br>--------------------------------------------------------------------------------<br>🔭 Formado em Técnico em informática e cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo. Atualmente estou trabalhando na área de suporte na Nerus - Empresa de software.<br>👯 Estou procurando colaborar e colocar em práticas meus conhecimentos em áreas que necessitam de <br>criatividade e resoluções de desafios não importa o grau<br>🌱 Tenho conhecimento em Flutter, C#, Python, React JS, Banco de Dados e desenvolvimento Web, e também em metodologias ágeis.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sidneyjfg/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidneyjunio/) 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/C%23-darkblue.svg?style=flat-square&logo=c-sharp&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-darkblue.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-blue.svg?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/react-purple.svg?style=flat-square&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-black.svg?style=flat-square&logo=docker&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-black.svg?style=flat-square&logo=flutter&logoColor=purple)
 ![Linux](https://img.shields.io/badge/Linux-gray.svg?style=flat-square&logo=Linux&logoColor=black) 
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
