@@ -6,6 +6,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sidneyjfg/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidneyjunio/) 
 
+## Portfólio
+📄 ([Original](https://sidneyjfg.github.io/Portfolio/)) 
+
+📄 ([Em React](https://react-portfolio-jet-nine.vercel.app))
+
+
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-darkblue.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-blue.svg?style=flat-square&logo=python&logoColor=white)
